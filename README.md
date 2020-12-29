@@ -7,7 +7,8 @@ NOVA DILEEP-JEC17CS078
 
 SHINOZ MOHAMMED P P-JEC17CS094 
 
-Ment
+#Mentor:
+Ms. Reshma K V 
 
 ## Bhavas classification Using Deep Learning
 

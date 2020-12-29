@@ -5,7 +5,7 @@ SREELAKSHMI C-JEC17CS098,
 NOVA DILEEP-JEC17CS078,
 SHINOZ MOHAMMED P P-JEC17CS094 ,
 
-## Bhavas classification
+## Bhavas classification Using Deep Learning
 
 # ABSTRACT
 
